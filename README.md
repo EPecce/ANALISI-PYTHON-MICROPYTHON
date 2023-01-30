@@ -9,7 +9,7 @@
 3. Firmware da usare per board **ESP32** **ESP3286**
 
 ## WOKWI SIMULATOR
-1. Simulatore on line per progetti  **Arduino** [Boards](https://wokwi.com/)
+1. Simulatore on line per progetti IOT  **Arduino** [Boards](https://wokwi.com/)
 
 
 
