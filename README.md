@@ -15,7 +15,9 @@
 
 ## ANALISI DATI con Python e Jupyter
 
-![QLTkit](QLTkit_Postcard_Side2.jpg)
-
 1. Inquinamento Luminoso [WIRED](https://www.wired.it/article/inquinamento-luminoso-in-aumento-studio-prospettive-futuro/?uID=5b9c415311dd6ce42c43185e01127724406a6d9957dc86cfdf0f193efde129ef&utm_brand=wi&utm_mailing=WI_NEWS_Daily+2023-01-29)
 2. Scaricare i dati [da Globe at Night](https://www.globeatnight.org/maps.php)
+
+GLOBE
+![QLTkit](QLTkit_Postcard_Side2.jpg)
+
