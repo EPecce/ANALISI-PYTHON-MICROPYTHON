@@ -7,6 +7,10 @@ Smanettare con python [sheets](https://www.pythonsheets.com/) Versione [PDF](htt
 2. OpenMV è un  progetto per  creazione di moduli di visione artificiale a basso costo, estensibili, alimentati da Python e mira a diventare ["l'Arduino della visione artificiale"](https://openmv.io/)
 3. Firmware da usare per board **ESP32** **ESP3286**
 
+## WOKWI SIMULATOR
+1. Simulatore on line per progetti  **Arduino** [Boards](https://wokwi.com/)
+
+
 
 ## ANALISI DATI con Python e Jupyter
 
