@@ -12,6 +12,7 @@
 1. Simulatore on line per progetti IOT  **Arduino** [Boards](https://wokwi.com/)
 2. Simulatore per ESP32 .ino [WiFi simulation](https://wokwi.com/projects/321525495180034642)
 3. Simulating MicroPython [IoT Weather Station](https://wokwi.com/arduino/projects/322577683855704658)
+4. Home automation with Wokwi su [Youtube](https://www.youtube.com/watch?v=_96Kfo2_pOk)
 
 
 
