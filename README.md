@@ -1,4 +1,4 @@
-## Cheatsheet
+## Cheatsheet/Tools
 1. Smanettare con python [sheets](https://www.pythonsheets.com/) Versione [PDF](https://github.com/lmsd23/python_sheets/files/10468305/pysheeet.pdf)
 2. Mark down [cheatsheet](https://www.markdown-cheatsheet.com/)
 3. Download di drawio-desktop[ versione desktop](https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10)
