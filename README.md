@@ -26,5 +26,5 @@
 2. Scaricare i dati [da Globe at Night](https://www.globeatnight.org/maps.php)
 
 GLOBE
-![QLTkit](EnergyCalculationMat-Side1.pdf)
+![QLTkit]
 
