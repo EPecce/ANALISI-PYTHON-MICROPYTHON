@@ -24,5 +24,5 @@
 2. Scaricare i dati [da Globe at Night](https://www.globeatnight.org/maps.php)
 
 GLOBE
-![QLTkit]
+![ESERCIZIO_1](https://github.com/lmsd23/ANALISI-PYTHON-MICROPYTHON/blob/main/ESERCIZIO_1_ENZO.png)
 
