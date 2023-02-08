@@ -15,7 +15,7 @@
 2. Simulatore per ESP32 .ino [WiFi simulation](https://wokwi.com/projects/321525495180034642)
 3. Simulating MicroPython [IoT Weather Station](https://wokwi.com/arduino/projects/322577683855704658)
 
-   3.1. Files of [Weather Station](https://github.com/lmsd23/ANALISI-PYTHON-MICROPYTHON/MQTT_WEATER-08022023.zip)
+   3.1. Files of [Weather Station](https://github.com/lmsd23/ANALISI-PYTHON-MICROPYTHON/main/MQTT_WEATER-08022023.zip)
 4. Home automation with Wokwi su [Youtube](https://www.youtube.com/watch?v=_96Kfo2_pOk)
 
 
